@@ -1,1 +1,9 @@
-beta gamma delta
+Python question asked in 2nd Interveiw.
+
+To find Max in each Subset of length 4
+i found it like maximum
+sum and an average 
+
+i understood average of all subsets
+but question was different
+
